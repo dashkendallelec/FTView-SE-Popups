@@ -8,7 +8,9 @@ This topic comes up enough to post an example.  Common request is how to open a 
 This example uses a window that is made invisible when the display is opened with VBA. "Me.Visability = false".  On that display you place the tags you want to monitor and attach VBA code to the change events for the objects (numeric display, etc) on the display.
 Within that VBA code you open the displays that are needed.
 
-The initial diplays are opened using the startup macro that is configured to be called by the PopupDemoClient.CLI configuration file.  Will add additional information in the future.
-Hope it helps solve any issues related to this.
+The initial diplays are opened using the startup macro that is configured to be called by the PopupDemoClient.CLI configuration file. Hope it helps solve any issues related to this.
+
+The related LinkedIn post: https://www.linkedin.com/feed/update/urn:li:activity:7368661987712466945/
+
 
 
